@@ -7,7 +7,7 @@ MERN | NEXTJS | JAVA
 CS student focused on building production-grade web applications with Next.js and Node.js. Strong interest in backend systems, APIs, and problem-solving.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sharan.wave@gmail.com](mailto:sharan.wave@gmail.com)
+* ✉️  You can contact me at [gursharansingh.dev@gmail.com](mailto:gursharansingh.dev@gmail.com)
 * 🚀  I'm currently working on [PROVN](https://provn.live)
 * 🧠  I'm currently learning DSA In Java.
 * 👥  I'm looking to collaborate on Development projects.
