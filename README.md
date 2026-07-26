@@ -8,7 +8,7 @@ CS student focused on building production-grade web applications with Next.js an
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gursharansingh.dev@gmail.com](mailto:gursharansingh.dev@gmail.com)
-* 🚀  I'm currently working on [PROVN](https://provn.live)
+* 🚀  I'm currently working on [EMISSIO](https://emissio.in)
 * 🧠  I'm currently learning DSA In Java.
 * 👥  I'm looking to collaborate on Development projects.
 
